@@ -20,17 +20,19 @@ A modern, responsive front-end e-commerce website built for a women’s fashion 
 ![Screenshot 2025-04-17 110221](https://github.com/user-attachments/assets/9296b9a4-3663-4b33-90cf-8c6f1ad26b44)
 
 ### 🖥️ Home Page  
-![Home Page](./assets/Screenshot_2025-04-17_110201.png)
+![Screenshot 2025-04-17 110201](https://github.com/user-attachments/assets/6c0bb615-0316-42f7-8f5a-c828de73e9eb)
 
----
+
 
 ### 🛒 Shopping Bag  
-![Shopping Bag](./assets/Screenshot_2025-04-17_110254.png)
+![Screenshot 2025-04-17 110304](https://github.com/user-attachments/assets/6b10b03c-be6d-41a7-b2a8-ffff58b23253)
+
 
 ---
 
 ### 🧾 Cart Summary  
-![Cart Summary](./assets/Screenshot_2025-04-17_110304.png)
+![Screenshot 2025-04-17 110254](https://github.com/user-attachments/assets/7bd4e81e-9675-4c5d-8fd0-b9810a779a88)
+
 
 > 📌 *Make sure to save your screenshots inside an `/assets/` folder in your project and update the image paths above if needed.*
 
@@ -106,7 +108,7 @@ If you'd like to improve something or add new features:
 ## 📌 Author
 
 **[Atharv Sahare]**  
-[Your GitHub Profile](https://github.com/atharv11)
+[My Github](https://github.com/atharv11)
 
 ---
 
